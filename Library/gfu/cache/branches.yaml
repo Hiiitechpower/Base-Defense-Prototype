@@ -11,27 +11,56 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-10T21:34:04.4852970-08:00
-  lastVerifiedAtString: 2018-01-10T21:34:04.4852970-08:00
-  initializedAtString: 2018-01-10T21:34:04.3743541-08:00
+  lastUpdatedAtString: 2018-01-16T23:05:08.6207119-08:00
+  lastVerifiedAtString: 2018-01-16T23:05:08.6207119-08:00
+  initializedAtString: 2018-01-16T23:05:08.5076479-08:00
   gitConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
+      name: origin
+      url: https://github.com/Hiiitechpower/Base-Defense-Prototype.git
   gitConfigRemote:
-    name: 
-    url: 
-  localBranches: []
-  remoteBranches: []
-  remotes: []
+    name: origin
+    url: https://github.com/Hiiitechpower/Base-Defense-Prototype.git
+  localBranches:
+  - name: master
+    tracking: origin/master
+    isActive: 1
+  remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
+    isActive: 0
+  remotes:
+  - name: origin
+    url: https://github.com/Hiiitechpower/Base-Defense-Prototype.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/Hiiitechpower/Base-Defense-Prototype.git
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - HEAD
+    subKeyValues:
+    - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/Hiiitechpower/Base-Defense-Prototype.git
   configRemotes:
-    keys: []
-    values: []
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/Hiiitechpower/Base-Defense-Prototype.git

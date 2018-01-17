@@ -11,12 +11,12 @@ MonoBehaviour:
   m_Script: {fileID: 1109517887, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-01-10T21:34:04.4933029-08:00
-  lastVerifiedAtString: 2018-01-10T21:34:04.4933029-08:00
-  firstInitializedAtString: 2018-01-10T21:34:04.4687885-08:00
+  lastUpdatedAtString: 2018-01-16T23:05:08.6312179-08:00
+  lastVerifiedAtString: 2018-01-16T23:05:08.6312179-08:00
+  firstInitializedAtString: 2018-01-16T23:05:08.5971987-08:00
   gitRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/Hiiitechpower/Base-Defense-Prototype.git
     login: 
     user: 
     host: 
@@ -24,5 +24,5 @@ MonoBehaviour:
     token: 
   gitBranch:
     name: master
-    tracking: '[None]'
-    isActive: 0
+    tracking: origin/master
+    isActive: 1
